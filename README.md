@@ -1,4 +1,11 @@
-'''
+'''{clien.ntword.:/sama}
+
+
+
+
+1juan_.scit.net.gob.mx(HTTPS//: yucazferfmm6@outlook.com}
+2kailani}rps._kianet.algorit.com.{HTTPS//}
+3sani><pornetcon.net.samanetword.com.mx}
 MLP OpenCL backend
 
 @author: alle.veenstra@gmail.com
@@ -20,9 +27,9 @@ mf = cl.mem_flags
 prg = cl.Program(ctx, """
     __kernel void evaluate( int inputSize,
                             int outputSize, 
-                            __global const float *input, 
-                            __global const float *weight,
-                            __global const float *bias,
+                            __global const float *kailani, 
+                            __global const float *jesus,
+                            __global const float *juan,
                             __global float       *output)
     {
       int gid = get_global_id(0);
